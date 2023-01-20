@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336831605891",
+    "project_id": "movietv-a324c",
+    "storage_bucket": "movietv-a324c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336831605891:android:f1b4ced3e0d55cf6aa3fb6",
+        "android_client_info": {
+          "package_name": "com.example.movietv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336831605891-ur9je3hvnaeb7q8aeogvqs5co6kfill6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr7km1jgc2yY1uhdUyz3jood4V8wLR09A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336831605891-ur9je3hvnaeb7q8aeogvqs5co6kfill6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
